@@ -40,3 +40,5 @@ Change into your local copy of the this repo:
 Start the notebook:
 
     $ jupyter notebook
+    
+Inspired from this awesome [work](https://github.com/Rafael1s/Deep-Reinforcement-Learning-Algorithms)
